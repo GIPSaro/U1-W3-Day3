@@ -1,8 +1,25 @@
 body {
   display: block;
+  background-image: url(../img/volodymyr-hryshchenko-x_OKGbxB3fA-unsplash.jpg);
   font-family: "Amatic Sc", sans-serif;
   text-align: center;
   font-size: 2rem;
   background-size: cover;
   background-repeat: no-repeat;
+}
+form {
+  padding-top: 250px;
+}
+input {
+  font-size: 20px;
+}
+.task {
+  display: block;
+  margin-left: 500px;
+  max-width: max-content;
+  padding: 0.7rem;
+  background-color: #9cb5c2;
+  color: white;
+  border: none;
+  border-radius: 5px;
 }
