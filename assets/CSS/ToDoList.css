@@ -35,3 +35,12 @@ input {
   background-color: #9cb5c2;
   font-family: "Amatic Sc", sans-serif;
 }
+
+button {
+  border: none;
+  border-radius: 3px;
+  max-width: max-content;
+  margin-left: 1.3rem;
+  background-color: whitesmoke;
+  font-family: "Amatic Sc", sans-serif;
+}
